@@ -11,9 +11,8 @@ The goal of this repository is to:
 
 ## 🚀 Technologies Used
 
-- Java 17+ (or your installed version)
+- Java 17+ (installed version)
 - IntelliJ IDEA (for development)
 - Git & GitHub (for version control)
 
-## 📁 Folder Structure
 
